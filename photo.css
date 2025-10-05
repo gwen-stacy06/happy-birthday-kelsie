@@ -29,6 +29,7 @@ body {
   display: flex;
   align-items: center; /* Centers vertically */
   justify-content: flex-start; /* Aligns to the left */
-  max-width: 50%;
+  max-width: 20%;
   height: auto;
 }
+
