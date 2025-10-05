@@ -30,7 +30,8 @@ body {
   align-items: center; /* Centers vertically */
   justify-content: flex-start; /* Aligns to the left */
   width: 300px;
-  height: auto;
+  height: 200px;
 }
+
 
 
