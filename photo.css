@@ -26,12 +26,12 @@ body {
 }
 
 .penguin {
-  display: flex;
   align-items: center; /* Centers vertically */
   justify-content: flex-start; /* Aligns to the left */
   width: 300px;
   height: 200px;
 }
+
 
 
 
