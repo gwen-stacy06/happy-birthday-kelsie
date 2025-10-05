@@ -18,3 +18,17 @@ body {
   position: relative;
   z-index: 1;
 }
+.container {
+  display: flex;
+  align-items: center; /* Centers vertically */
+  justify-content: flex-start; /* Aligns to the left */
+  height: 100vh; /* Full viewport height for demonstration */
+}
+
+.penguin {
+  display: flex;
+  align-items: center; /* Centers vertically */
+  justify-content: flex-start; /* Aligns to the left */
+  max-width: 50%;
+  height: auto;
+}
